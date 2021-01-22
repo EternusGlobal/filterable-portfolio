@@ -1,250 +1,337 @@
 const data = [
   {
-    Title: 'Foods That Cause Stomach Fat Or Bloating',
+    Title: 'Lorem ipsum dolor sit amet',
+    Description:
+      'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.',
+    Image: 'https://source.unsplash.com/random/800x591',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Weight loss',
-    Link:
-      'https://ezinearticles.com/?Effective-Exercises-to-Lose-Stomach-Fat&id=2787327',
+    Link: '#',
   },
   {
-    Title: 'Thomson Fertility Centre',
+    Title: 'Cum sociis',
+    Description:
+      'Varius vel pharetra vel turpis nunc eget lorem. Tristique magna sit amet purus gravida quis blandit turpis cursus.',
+    Image: 'https://source.unsplash.com/random/800x592',
     Format: 'Web Content',
     Industry: 'Health',
-    Tag: 'Fertility Services, Infertility Conditions, Fertility Assessment',
-    Link: 'https://thomsonfertility.com.sg/',
+    Tag: 'Fertility services, infertility conditions, fertility assessment',
+    Link: '#',
   },
   {
-    Title: 'Speed Green',
-    Format: 'Web Content, Blog',
+    Title: 'Odio morbi quis commodo',
+    Description:
+      'Nulla facilisi morbi tempus iaculis urna id. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat.',
+    Image: 'https://source.unsplash.com/random/800x593',
+    Format: 'Web Content/Blog',
     Industry: 'Cannabis',
-    Tag: 'CBD, Health and Wellness, Latest News, Marijuana',
-    Link: 'https://speedgreens.co/',
+    Tag: 'CBD, Health & Wellness, Latest News, Marijuana',
+    Link: '#',
   },
   {
-    Title: 'West Coast Weeds',
-    Format: 'Web Content, Product Descriptions',
+    Title: 'Luctus venenatis lectus',
+    Description:
+      'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
+    Image: 'https://source.unsplash.com/random/800x594',
+    Format: 'Web Content/Product descriptions',
     Industry: 'Cannabis',
     Tag:
-      'Budder, Citrus, Concentrate, Crystallize, Daytime, Depression, Edibles, Energetic, Euphoric, Everest, Shatter, Extracts, Fatigue , Featured, Flower, Herbal, Hybrid, Indica',
-    Link: 'https://www.westcoastweeds.com/',
+      'Budder, Citrus, Concentrate, Crystallize, Daytime, Depression, Edibles, Energetic, Euphoric, Everest, Shatter, Extracts, Fatigue ,featured, Flower, Herbal, Hybrid, Indica',
+    Link: '#',
   },
   {
-    Title: 'Pabau Clinic Management Software',
+    Title: 'Cum sociis',
+    Description:
+      'Nulla facilisi morbi tempus iaculis urna id. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat.',
+    Image: 'https://source.unsplash.com/random/800x595',
     Format: 'Web Content',
     Industry: 'Medical Clinic',
-    Tag: 'Clinic Management Software, Medical Software, CRM System',
-    Link: 'https://www.pabau.com/',
+    Tag: 'Clinic Management software, Medical software, CRM system',
+    Link: '#',
   },
   {
-    Title: 'Watsons Health',
-    Format: 'Web Content, Product Descriptions',
-    Industry: 'Health, Drugs',
-    Tag: 'Health articles, Drugs, Healthy Tips',
-    Link: 'https://watsonshealth.com.ph/',
+    Title: 'Luctus venenatis lectus',
+    Description:
+      'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.',
+    Image: 'https://source.unsplash.com/random/800x596',
+    Format: 'Web Content/Product Description',
+    Industry: 'Health/Drugs',
+    Tag: 'Health articles, Drugs, healthy tips',
+    Link: '#',
   },
   {
-    Title: 'Doctor Tipser',
+    Title: 'Odio morbi quis commodo',
+    Description:
+      'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
+    Image: 'https://source.unsplash.com/random/800x597',
     Format: 'Web Content',
     Industry: 'Medical Clinic',
     Tag:
-      "Addiction and Rehab, Health problems, Medications and treament, Women's health issues",
-    Link: 'https://www.doctortipster.com/',
+      "Addiction and Rehab, Health problems, Medications and treament, women's health issues",
+    Link: '#',
   },
   {
-    Title: 'Yoga How',
+    Title: 'Nunc vel risus',
+    Description:
+      'Ultrices sagittis orci a scelerisque purus semper eget. Eget egestas purus viverra accumsan in. Ac odio tempor orci dapibus ultrices.',
+    Image: 'https://source.unsplash.com/random/800x598',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Benefits of yoga, types of yoga',
-    Link: 'https://theyogahow.com/',
+    Link: '#',
   },
   {
-    Title: 'Zencare',
+    Title: 'Et molestie ac feugiat',
+    Description:
+      'Duis tristique sollicitudin nibh sit amet commodo. Viverra ipsum nunc aliquet bibendum enim facilisis. Suspendisse in est ante in. Quam id leo in vitae turpis massa. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo.',
+    Image: 'https://source.unsplash.com/random/800x599',
     Format: 'Web Content',
     Industry: 'Health',
     Tag: 'Therapy, mental health, therapists, therapy types',
-    Link: 'https://zencare.co/',
+    Link: '#',
   },
   {
-    Title: 'Archives of Psychology',
+    Title: 'Mattis pellentesque',
+    Description:
+      'Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Etiam sit amet nisl purus in mollis nunc sed. Feugiat nisl pretium fusce id velit ut tortor pretium viverra.',
+    Image: 'https://source.unsplash.com/random/800x600',
     Format: 'Web Content',
     Industry: 'Research',
     Tag: 'behavioral research',
-    Link: 'https://archivesofpsychology.org/',
+    Link: '#',
   },
   {
-    Title: 'PSC',
+    Title: 'Nunc vel risus',
+    Description:
+      'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
+    Image: 'https://source.unsplash.com/random/800x601',
     Format: 'Web Content',
     Industry: 'Nature',
-    Tag: 'Medicinal benefits, Health',
-    Link: 'https://epsce.com/',
+    Tag: 'Medicinal benefits, Health ',
+    Link: '#',
   },
   {
-    Title: 'Baseclass',
+    Title: 'Et molestie ac feugiat',
+    Description:
+      'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.',
+    Image: 'https://source.unsplash.com/random/800x602',
     Format: 'Web Content',
     Industry: 'Technical',
     Tag: 'software engineering, software design, apps development company',
-    Link: 'http://www.baseclass.co.in/',
+    Link: '#',
   },
   {
-    Title: 'Geeky Duck',
+    Title: 'Odio morbi quis commodo',
+    Description:
+      'Ultrices sagittis orci a scelerisque purus semper eget. Eget egestas purus viverra accumsan in. Ac odio tempor orci dapibus ultrices.',
+    Image: 'https://source.unsplash.com/random/800x603',
     Format: 'Web Content',
     Industry: 'Technical',
-    Tag: 'Information technology, Website development Tips',
-    Link: 'https://geekyduck.com/',
+    Tag: 'Information technology , Website development Tips',
+    Link: '#',
   },
   {
-    Title: 'RWT Design & Construction',
+    Title: 'Luctus venenatis lectus',
+    Description:
+      'Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Etiam sit amet nisl purus in mollis nunc sed. Feugiat nisl pretium fusce id velit ut tortor pretium viverra.',
+    Image: 'https://source.unsplash.com/random/800x604',
     Format: 'Web Content',
-    Industry: 'Home, Garden, Furniture',
+    Industry: 'Home, Garden and Furniture',
     Tag: 'home remodeling, home restoration, home addition projects',
-    Link: 'https://rwthomeremodeling.com/',
+    Link: '#',
   },
   {
-    Title: 'Urban Gardeners Republic',
+    Title: 'In tellus integer feugiat',
+    Description:
+      'Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Augue lacus viverra vitae congue. ',
+    Image: 'https://source.unsplash.com/random/800x605',
     Format: 'Web Content',
-    Industry: 'Home, Garden, Furniture',
+    Industry: 'Home, Garden and Furniture',
     Tag: 'Gardening tool, gardening tips',
-    Link: 'https://urbangardenersrepublic.com/',
+    Link: '#',
   },
   {
-    Title: 'New York Furniture Outlets',
-    Format: 'Web Content, Product Descriptions',
-    Industry: 'Home, Garden, Furniture',
+    Title: 'Maecenas sed enim ut sem',
+    Description:
+      'Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Nunc sed augue lacus viverra vitae congue eu consequat. Magna eget est lorem ipsum dolor sit amet consectetur.',
+    Image: 'https://source.unsplash.com/random/800x606',
+    Format: 'Web Content/Product Description',
+    Industry: 'Home, Garden and Furniture',
     Tag: 'Home Furniture',
-    Link: 'https://nyfurnitureoutlets.com/',
+    Link: '#',
   },
   {
-    Title: 'Designer Rugs',
-    Format: 'Web Content, Product Descriptions',
-    Industry: 'Home, Garden, Furniture',
+    Title: 'Nunc vel risus',
+    Description:
+      'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
+    Image: 'https://source.unsplash.com/random/800x607',
+    Format: 'Web Content/Product Description',
+    Industry: 'Home, Garden and Furniture',
     Tag: 'Home accessories',
-    Link: 'https://www.designerrugs.com.au/',
+    Link: '#',
   },
   {
     Title: 'Amazon',
-    Format: 'Product Descriptions',
+    Description:
+      'Nulla facilisi morbi tempus iaculis urna id. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat.',
+    Image: 'https://source.unsplash.com/random/800x608',
+    Format: 'Product Description',
     Industry: 'Shopping and retail',
     Tag: 'Online Store',
-    Link:
-      'https://www.amazon.com/Bamboo-Toothbrush-Charcoal-Bristles-Toothbrushes/dp/B076LF8L8M',
+    Link: '#',
   },
   {
-    Title: 'GOLONZO',
-    Format: 'Web Content, Product Descriptions',
+    Title: 'Mattis pellentesque',
+    Description:
+      'Varius vel pharetra vel turpis nunc eget lorem. Tristique magna sit amet purus gravida quis blandit turpis cursus.',
+    Image: 'https://source.unsplash.com/random/800x609',
+    Format: 'Web Content/Product Description',
     Industry: 'Shopping and retail',
     Tag: 'Online Store, Online Business',
-    Link: 'https://golonzo.com/products/comfy-baby-support-seat',
+    Link: '#',
   },
   {
-    Title: 'Small Intestinal Bacterial Overgrowth (SIBO)',
+    Title: 'Nunc vel risus',
+    Description:
+      'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.',
+    Image: 'https://source.unsplash.com/random/800x610',
     Format: 'Blog',
     Industry: 'Health',
     Tag:
       'bacterial overgrowth, digestion, dogs, sibo, Small Intestinal Bacterial Overgrowth, thegut',
-    Link: 'https://guthack.com/gut/small-intestinal-bacterial-overgrowth-sibo/',
+    Link: '#',
   },
   {
-    Title: 'Cardamom Soap: Effective for Skin Whitening?',
+    Title: 'Luctus venenatis lectus',
+    Description:
+      'Duis tristique sollicitudin nibh sit amet commodo. Viverra ipsum nunc aliquet bibendum enim facilisis. Suspendisse in est ante in. Quam id leo in vitae turpis massa. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo.',
+    Image: 'https://source.unsplash.com/random/800x611',
     Format: 'Blog',
     Industry: 'Beauty Essentials',
     Tag:
       'Anti-Aging, cardamom soap, Face Wash, Skin Whitening, soap, whitening',
-    Link: 'https://brightwhiteskin.com/author/marie/',
+    Link: '#',
   },
   {
-    Title: 'Healthy Avenue Magazine',
+    Title: 'Maecenas sed enim ut sem',
+    Description:
+      'Varius vel pharetra vel turpis nunc eget lorem. Tristique magna sit amet purus gravida quis blandit turpis cursus.',
+    Image: 'https://source.unsplash.com/random/800x612',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Health and Fitness, Medical Conditions',
-    Link: 'https://healthyavenue.org/',
+    Link: '#',
   },
   {
-    Title: 'Healthy Life Note',
+    Title: 'Odio morbi quis commodo',
+    Description:
+      'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
+    Image: 'https://source.unsplash.com/random/800x613',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Health and Fitness',
-    Link: 'https://healthylifenote.com/author/marie-gabrielle/',
+    Link: '#',
   },
   {
-    Title: 'Eternus Global Blogs',
+    Title: 'Nunc vel risus',
+    Description:
+      'Varius vel pharetra vel turpis nunc eget lorem. Tristique magna sit amet purus gravida quis blandit turpis cursus.',
+    Image: 'https://source.unsplash.com/random/800x614',
     Format: 'Blog',
     Industry: 'Information Technology',
     Tag: 'KPO, Information Technology, Digital Marketing',
-    Link: 'https://www.eternusglobal.com/blog/',
+    Link: '#',
   },
   {
-    Title: 'Ezine Articles',
+    Title: 'Non tellus orci',
+    Description:
+      'Risus nullam eget felis eget. Sollicitudin aliquam ultrices sagittis orci a scelerisque. Malesuada proin libero nunc consequat interdum varius.',
+    Image: 'https://source.unsplash.com/random/800x615',
     Format: 'Blog',
-    Industry: 'Content Marketing, Health',
+    Industry: 'Content marketing/Health',
     Tag: 'Health Topics',
-    Link:
-      'http://ezinearticles.com/expert/Dr._Marie_Gabrielle_A._Laguna/386896',
+    Link: '#',
   },
   {
-    Title: 'Natural Detoxification: A MUST in Today�s Modern World',
+    Title: 'Augue eget arcu',
+    Description:
+      'Urna molestie at elementum eu facilisis. Dictum sit amet justo donec. Augue mauris augue neque gravida in fermentum. ',
+    Image: 'https://source.unsplash.com/random/800x616',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'detoxification',
-    Link:
-      'https://www.selfgrowth.com/articles/natural-detoxification-a-must-in-today-s-modern-world',
+    Link: '#',
   },
   {
-    Title: 'The Wonders of Arnica Topical Psc',
+    Title: 'Odio morbi quis commodo',
+    Description:
+      'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.',
+    Image: 'https://source.unsplash.com/random/800x617',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Arnica uses',
-    Link:
-      'https://www.sooperarticles.com/health-fitness-articles/nutrition-articles/wonders-arnica-topical-psc-30329.html',
+    Link: '#',
   },
   {
-    Title: 'Sinus Eliminato Complex',
+    Title: 'Maecenas sed enim ut sem',
+    Description:
+      'Duis tristique sollicitudin nibh sit amet commodo. Viverra ipsum nunc aliquet bibendum enim facilisis. Suspendisse in est ante in. Quam id leo in vitae turpis massa. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo.',
+    Image: 'https://source.unsplash.com/random/800x618',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Health Disorder',
-    Link:
-      'https://www.sooperarticles.com/health-fitness-articles/general-health-articles/sinus-eliminato-complex-28505.html',
+    Link: '#',
   },
   {
-    Title: 'Daily Endurance Complex',
+    Title: 'Et molestie ac feugiat',
+    Description:
+      'Nulla facilisi morbi tempus iaculis urna id. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat.',
+    Image: 'https://source.unsplash.com/random/800x619',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Health and Fitness',
-    Link:
-      'https://www.sooperarticles.com/health-fitness-articles/general-health-articles/daily-endurance-complex-24786.html',
+    Link: '#',
   },
   {
-    Title: 'As Good As New Complex',
+    Title: 'Odio morbi quis commodo',
+    Description:
+      'Varius vel pharetra vel turpis nunc eget lorem. Tristique magna sit amet purus gravida quis blandit turpis cursus.',
+    Image: 'https://source.unsplash.com/random/800x620',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'General health',
-    Link:
-      'https://www.sooperarticles.com/health-fitness-articles/general-health-articles/good-new-complex-23594.html',
+    Link: '#',
   },
   {
-    Title: 'Herbal Therapy in Cough And Colds',
+    Title: 'Posuere lorem ipsum',
+    Description:
+      'Odio facilisis mauris sit amet massa. Dui nunc mattis enim ut tellus elementum. Ac felis donec et odio. Libero volutpat sed cras ornare arcu dui vivamus arcu.',
+    Image: 'https://source.unsplash.com/random/800x621',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Herbal Medication',
-    Link:
-      'https://www.sooperarticles.com/health-fitness-articles/general-health-articles/herbal-therapy-cough-colds-23593.html',
+    Link: '#',
   },
   {
-    Title: 'Black Elder/ Sundew Combo: The Influenza Booster',
+    Title: 'Aliquet nec ullamcorper ',
+    Description:
+      'Sem et tortor consequat id porta nibh venenatis cras. Eleifend quam adipiscing vitae proin sagittis. Proin nibh nisl condimentum id venenatis a condimentum. Nam at lectus urna duis convallis convallis.',
+    Image: 'https://source.unsplash.com/random/800x622',
     Format: 'Blog',
     Industry: 'Health',
     Tag: 'Influenza Booster',
-    Link:
-      'https://www.sooperarticles.com/health-fitness-articles/general-health-articles/black-elder-sundew-combo-influenza-booster-22588.html',
+    Link: '#',
   },
   {
-    Title:
-      'Quesnel Billy Barker Days Carnival 2018: 4 Amazing Days of Attractions and Family Fun!',
+    Title: 'Mauris a diam maecenas',
+    Description:
+      'Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Libero justo laoreet sit amet cursus sit amet dictum sit. Sit amet consectetur adipiscing elit.',
+    Image: 'https://source.unsplash.com/random/800x623',
     Format: 'Blog',
     Industry: 'News',
     Tag: 'Carnival Activities',
-    Link:
-      'https://shootingstar.ca/quesnel-billy-barker-days-carnival-2018-4-amazing-days-of-attractions-and-family-fun/',
+    Link: '#',
   },
 ];
 
@@ -255,7 +342,7 @@ updateHTML = (data) => {
   data.map((item) => {
     html.innerHTML += `
      <li
-            class="item-box shadow-lg p-4 m-2 border-t-2 border-blue-600"
+            class="item-box shadow-lg p-4 m-2 border-t-2 border-gray-800"
             data-industry="${item.Industry}"
             data-format="${item.Format}"
             data-tag="${item.Tag}"
@@ -263,11 +350,11 @@ updateHTML = (data) => {
             <div class="aspect">
               <div class="aspect__inner">
                 <div>
-                  <!--<img class="" src="./img/thomsonfertilitylogo.png" alt="" /> -->
+                 <img class="w-full h-72 xl:w-72 xl:h-72 object-cover"src="${item.Image}"/>
                 </div>
                 <h2 class="font-semibold my-2">${item.Title}</h2>
                 <p>
-                  
+                  ${item.Description}
                 </p>
                 <a
                   class="my-2 border-b border-gray-700 inline-block"
@@ -292,17 +379,3 @@ updateHTML = (data) => {
 };
 
 updateHTML(data);
-
-window.addEventListener('load', () => {
-  registerSw();
-});
-
-const registerSw = async () => {
-  if ('serviceWorker' in navigator) {
-    try {
-      await navigator.serviceWorker.register('./sw.js');
-    } catch (e) {
-      console.log('SW Registration Failed');
-    }
-  }
-};

@@ -52,7 +52,7 @@ ul.ft-menu > li.ft-field > div.ft-panel {
   position: absolute;
   min-width: 200px;
   background-clip: padding-box;
-  border: 3px solid #6f4bf1;
+  border: 3px solid #6b7280;
   border-radius: 3px;
   top: 100%;
   margin-top: 15px;
@@ -68,10 +68,10 @@ ul.ft-menu > li.ft-field > div.ft-panel:after {
   height: 0;
   width: 0;
   left: 50%;
-  color: #6f4bf1;
+  color: #6b7280;
 }
 ul.ft-menu > li.ft-field > div.ft-panel:before {
-  border-bottom: 10px solid #6f4bf1;
+  border-bottom: 10px solid #6b7280;
   border-bottom: 10px solid rgba(0, 0, 0, 0.3);
   top: -15px;
   margin-left: -10px;
@@ -102,14 +102,14 @@ ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-selected > li {
   color: white;
   border-radius: 3px;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
-  background: #6f4bf1;
+  background: #6b7280;
 }
 ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-selected > li:after {
   content: ' \00D7';
   color: white;
 }
 ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-selected > li:active {
-  background: #6f4bf1;
+  background: #6b7280;
 }
 
 ul.ft-menu > li.ft-field > div.ft-panel > fieldset.ft-search {
@@ -173,11 +173,11 @@ ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-tags > li:after {
 }
 ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-tags > li.ft-highlight {
   border-bottom: 1px solid #103c56;
-  background: #6f4bf1;
+  background: #6b7280;
   color: #fff;
 }
 ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-tags > li.ft-highlight:active {
-  background: #6f4bf1;
+  background: #6b7280;
 }
 ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-tags > li.ft-highlight:after {
   background: #343666;
@@ -212,7 +212,7 @@ ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-tags::-webkit-scrollbar-track {
 ul.ft-menu > li.ft-field > div.ft-panel > ul.ft-tags::-webkit-scrollbar-thumb {
   border-radius: 2px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
-  background: #6f4bf1;
+  background: #d1d5db;
 }
 
 @media screen and (max-width: 639px) {

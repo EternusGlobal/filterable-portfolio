@@ -39,9 +39,9 @@ body {
   background-color: green;
 } */
 
-header {
-  background: url('../img/banner.jpg');
-}
+/* header {
+  background: url('https://source.unsplash.com/random/');
+} */
 /* 
 .row {
   display: grid !important;
