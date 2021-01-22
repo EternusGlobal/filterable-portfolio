@@ -249,7 +249,7 @@ const data = [
       'Risus nullam eget felis eget. Sollicitudin aliquam ultrices sagittis orci a scelerisque. Malesuada proin libero nunc consequat interdum varius.',
     Image: 'https://source.unsplash.com/random/800x615',
     Format: 'Blog',
-    Industry: 'Content marketing/Health',
+    Industry: 'Content marketing, Health',
     Tag: 'Health Topics',
     Link: '#',
   },
