@@ -24,7 +24,7 @@ const data = [
     Description:
       'Nulla facilisi morbi tempus iaculis urna id. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat.',
     Image: 'https://source.unsplash.com/random/800x593',
-    Format: 'Web Content/Blog',
+    Format: 'Web Content, Blog',
     Industry: 'Cannabis',
     Tag: 'CBD, Health & Wellness, Latest News, Marijuana',
     Link: '#',
@@ -34,7 +34,7 @@ const data = [
     Description:
       'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
     Image: 'https://source.unsplash.com/random/800x594',
-    Format: 'Web Content/Product descriptions',
+    Format: 'Web Content, Product Descriptions',
     Industry: 'Cannabis',
     Tag:
       'Budder, Citrus, Concentrate, Crystallize, Daytime, Depression, Edibles, Energetic, Euphoric, Everest, Shatter, Extracts, Fatigue ,featured, Flower, Herbal, Hybrid, Indica',
@@ -55,7 +55,7 @@ const data = [
     Description:
       'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.',
     Image: 'https://source.unsplash.com/random/800x596',
-    Format: 'Web Content/Product Description',
+    Format: 'Web Content, Product Descriptions',
     Industry: 'Health/Drugs',
     Tag: 'Health articles, Drugs, healthy tips',
     Link: '#',
@@ -156,7 +156,7 @@ const data = [
     Description:
       'Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Nunc sed augue lacus viverra vitae congue eu consequat. Magna eget est lorem ipsum dolor sit amet consectetur.',
     Image: 'https://source.unsplash.com/random/800x606',
-    Format: 'Web Content/Product Description',
+    Format: 'Web Content, Product Descriptions',
     Industry: 'Home, Garden and Furniture',
     Tag: 'Home Furniture',
     Link: '#',
@@ -166,7 +166,7 @@ const data = [
     Description:
       'Nisl suscipit adipiscing bibendum est ultricies integer quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Amet nisl purus in mollis nunc sed id semper risus.',
     Image: 'https://source.unsplash.com/random/800x607',
-    Format: 'Web Content/Product Description',
+    Format: 'Web Content, Product Descriptions',
     Industry: 'Home, Garden and Furniture',
     Tag: 'Home accessories',
     Link: '#',
@@ -176,7 +176,7 @@ const data = [
     Description:
       'Nulla facilisi morbi tempus iaculis urna id. Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat.',
     Image: 'https://source.unsplash.com/random/800x608',
-    Format: 'Product Description',
+    Format: 'Product Descriptions',
     Industry: 'Shopping and retail',
     Tag: 'Online Store',
     Link: '#',
@@ -186,7 +186,7 @@ const data = [
     Description:
       'Varius vel pharetra vel turpis nunc eget lorem. Tristique magna sit amet purus gravida quis blandit turpis cursus.',
     Image: 'https://source.unsplash.com/random/800x609',
-    Format: 'Web Content/Product Description',
+    Format: 'Web Content, Product Descriptions',
     Industry: 'Shopping and retail',
     Tag: 'Online Store, Online Business',
     Link: '#',
